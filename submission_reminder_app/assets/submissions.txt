@@ -1,0 +1,7 @@
+student, assignment, status
+Noel, Shell Navigation, not submitted
+tresor,htmland css, submitted
+alain, javascript, not submitted
+ivan , cybersecurity, submitted
+manzi , front end development , not submitted
+nehemie , machine learning , submitted
